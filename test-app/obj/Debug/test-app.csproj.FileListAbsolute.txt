@@ -1,0 +1,13 @@
+E:\anish\personal\android\apps\test-app\test-app\bin\Debug\test-app.dll
+E:\anish\personal\android\apps\test-app\test-app\bin\Debug\test-app.pdb
+E:\anish\personal\android\apps\test-app\test-app\bin\Debug\test-app.dll.mdb
+E:\anish\personal\android\apps\test-app\test-app\bin\Debug\test_app.test_app.apk
+E:\anish\personal\android\apps\test-app\test-app\bin\Debug\test_app.test_app-Signed.apk
+E:\anish\personal\android\apps\test-app\test-app\obj\Debug\test-app.dll
+E:\anish\personal\android\apps\test-app\test-app\obj\Debug\test-app.pdb
+E:\anish\personal\android\apps\test-app\test-app\obj\Debug\android\bin\test_app.test_app.apk
+E:\anish\personal\android\apps\test-app\test-app\obj\Debug\res\layout\main.xml
+E:\anish\personal\android\apps\test-app\test-app\obj\Debug\res\values\strings.xml
+E:\anish\personal\android\apps\test-app\test-app\obj\Debug\res\drawable\icon.png
+E:\anish\personal\android\apps\test-app\test-app\obj\Debug\R.cs.flag
+E:\anish\personal\android\apps\test-app\test-app\obj\Debug\uploadflags.txt
